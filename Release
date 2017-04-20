@@ -1,0 +1,9 @@
+Origin: xrepo
+Label: xrepo
+Suite: stable
+Version: 1.0
+Codename: Decimation
+Architecture: iphoneos-arm
+Components: main
+Description: xrepo
+MD5Sum: 
